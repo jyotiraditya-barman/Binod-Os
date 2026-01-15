@@ -93,14 +93,5 @@ Contributions, experiments, and small improvements are welcome. A few suggestion
 - Add small tests or emulation harnesses for host-side tools to validate `mkfs` and `fs_tool` behavior.
 
 ## License
+none make anything and make edit it i dont care.
 
-No license file is included in this repository. Add a `LICENSE` if you want to define usage terms.
-
-## Contact / Next steps
-
-If you want I can:
-
-- add a short CONTRIBUTING.md and a LICENSE (MIT) for you; or
-- add a small script that creates a minimal `disk.img` and populates it with a tiny filesystem so `make run` works out-of-the-box.
-
-If you'd like one of those, tell me which and I'll add it.
